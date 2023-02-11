@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+    margin: 5px;
+}
+
+#genre-ul {
+    position: absolute;
+    left: 35em;
+}
+
+#ul {
+    position: absolute;
+    top: 2.5em;
+}
